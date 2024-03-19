@@ -4,7 +4,7 @@
 #include <vector>
 #include <string>
 
-// Forward declarations
+// forward declarations
 class Resources;
 class Actions;
 

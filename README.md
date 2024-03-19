@@ -1,5 +1,5 @@
 ## sims-se-forge
-stuff used for (forge)[https://www.theforage.com/virtual-experience/a77WE3de8qrxWferQ/electronic-arts/software-engineering-awbf/write-a-feature-proposal/]
+stuff used for[[forge](https://www.theforage.com/dashboard)]
 
 
 

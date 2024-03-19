@@ -1,4 +1,4 @@
-## sims-se-forge
+## sims-se-forage
 stuff used for [[Forage](https://www.theforage.com/dashboard)]
 
 

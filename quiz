@@ -1,0 +1,6 @@
+Header files often contain method stubs without implementations. The implementations for these methods are contained in the corresponding source file.
+True
+
+Header files contain the “what” of your code without focusing on the “how,” so that other engineers can focus on what your code does, without having to worry about how it works.
+True
+

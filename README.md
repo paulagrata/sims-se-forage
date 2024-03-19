@@ -1,5 +1,5 @@
 ## sims-se-forge
-stuff used for [[forge](https://www.theforage.com/dashboard)]
+stuff used for [[Forage](https://www.theforage.com/dashboard)]
 
 
 ***Dividing Household Member UI by Sims and Pets***

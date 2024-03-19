@@ -18,5 +18,6 @@ Adding a button to the existing UI that will toggle between household sim member
 
 **Evaluation statement:**
 
-Pros: Can add more than the original 8 household members, since this will allow users to add up to 8 total sims and 8 total animals since the UI will be able to hold that many between the button that will toggle between sims and animals. 
-Cons: Some systems may have slower gameplay with a full 8 total sims and 8 total animals. Users may not to see all household member's need color since they will need to toggle between the two. 
+**Pros:** Can add more than the original 8 household members, since this will allow users to add up to 8 total sims and 8 total animals since the UI will be able to hold that many between the button that will toggle between sims and animals. 
+
+**Cons:** Some systems may have slower gameplay with a full 8 total sims and 8 total animals. Users may not to see all household member's need color since they will need to toggle between the two. 
